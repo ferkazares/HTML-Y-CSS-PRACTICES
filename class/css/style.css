@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #58504A;
+    text-align: center;
+    margin: 15px;
+}
+
+h2{
+    color: #3E6990;
+}
+
+p{
+    color: #8F95D3;
+}
+
+.tarjeta{
+    border: 10px solid #381D2A;
+    background-color: #DDF0FF;
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+.titulo{
+    color: #F39B6D;
+}
